@@ -1,1 +1,1 @@
-
+Inference: Install vivado and create new project and added the sample files into design sources.Basys3 board is selected.To automate verifying testbench file "adder_tb.v" is selected and added.Verification of block diagram by opening the elaborated design.Simulation is run and checked for errors.output is shown in the Tcl console and wave window.
